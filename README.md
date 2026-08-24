@@ -4,7 +4,7 @@ A browser-based canvas for designing Zebra labels — text, shapes, barcodes,
 QR codes, and raw ZPL escape hatches — compiled to real ZPL and printed
 over CUPS.
 
-**[blog.shaishav.kr/zpl-designer](https://blog.shaishav.kr/zpl-designer/)** — static demo of the
+**[zpl-designer.shaishav.kr](https://zpl-designer.shaishav.kr/)** — static demo of the
 designer UI. It has no backend attached, so Save / Load / View ZPL / Print
 don't work there; see below for running the full thing.
 
