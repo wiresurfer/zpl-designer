@@ -1,0 +1,19 @@
+# frontend
+frontend/node_modules
+frontend/dist
+frontend/dist-ssr
+*.local
+
+# backend
+backend/.venv
+backend/__pycache__
+backend/**/__pycache__
+backend/*.egg-info
+backend/.pytest_cache
+backend/labels.db
+
+# editor / os
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
